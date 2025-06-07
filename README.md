@@ -23,7 +23,7 @@ A Minecraft Bedrock cheat based on Memory Writing.
 2. Open x64 -> Release
 3. And launch Uranium.exe
 
-3.5. or you can just download the already built exe.
+4. or you can just download the already built exe.
 
 # Status of the Project:
 ### I won't be updating this repository anymore as I might work on a recode of Uranium. So if you see any bugs, you may update it yourself.
