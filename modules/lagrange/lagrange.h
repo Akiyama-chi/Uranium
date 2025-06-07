@@ -20,7 +20,6 @@ private:
     void updateLagRange(bool enable);
 };
 
-// ---------------- Mouse Hook (Now Fully in Header) ---------------- //
 namespace LagRangeMouseHook {
     inline HHOOK hookdoMouse;
     inline bool mouseDown = false;
