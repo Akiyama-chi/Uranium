@@ -11,6 +11,7 @@ A Minecraft Bedrock cheat based on Memory Writing.
 - ### LagSwitch(named as LagRange)
 - ### NoFallDamage
 - ### Device ID Spoofer
+- ### NoFallDamage(Vanilla)
 
 # Building the Project:
 1. Download the source code of the repository
